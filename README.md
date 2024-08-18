@@ -34,7 +34,7 @@ Este projeto faz parte do curso **DevQuest**, servindo como um teste técnico pa
 
 ## Deploy
 
-[Visualize aqui](https://gco-pokedex.vercel.app)
+[Visualize aqui](https://gco-quest-pokedex.vercel.app)
 
 ## Instalação e Uso
 
